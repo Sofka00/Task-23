@@ -13,7 +13,7 @@ namespace Task_23
         {
             Dog dogQ= new Dog();
             dogQ.Name = "Q";
-            dogQ.DoGav();
+            
 
             Dog dog = new Dog();
             dog.Name = "Bobic";
